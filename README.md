@@ -125,6 +125,9 @@ Basic Revenue =SUMX(FILTER(CustomerData,CustomerData[SubscriptionType]="Basic"),
 
 ![SalesReport powerbi](https://github.com/user-attachments/assets/7f3e6755-2f51-46a7-bd1b-2236ba970df4)
 
+
+
+
         
   💻📚🖋️
   💰💲🤑
