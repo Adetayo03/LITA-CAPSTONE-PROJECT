@@ -78,9 +78,59 @@ Select customerName as "Sub More Than 12 Months" from [dbo].[CustomerData] where
 Basic Revenue =SUMX(FILTER(CustomerData,CustomerData[SubscriptionType]="Basic"),CustomerData[Revenue])
 ```
   ### Data Visualization
-        |Heading 1|Heading 2|Heading 3|
-        |-------------|-------------|--------------|
-        |Table 1|Table 2|Table 3|
+  
+![Chart](https://github.com/user-attachments/assets/59cbb20e-45bd-4125-b03c-ab65d5e6aa9d)
+
+
+
+![CustReport Excel 1](https://github.com/user-attachments/assets/1e9bc43d-5772-41f1-96cc-8e504e48d020)
+
+
+![CustReport Excel 2](https://github.com/user-attachments/assets/d79b7cb8-1490-44e1-aac9-47d9e906de03)
+
+  
+      
+![custReport powerbi](https://github.com/user-attachments/assets/246b6a6b-6294-4dd3-9e59-8a4a8f1726c7)
+
+        
+![CustReport sql1](https://github.com/user-attachments/assets/721fb7b8-dd7d-4e77-8349-7fbde986f360)
+
+        
+![CustReport sql2](https://github.com/user-attachments/assets/7571e62f-2a79-4ba4-ba0b-b093f9fca1db)
+
+
+![CustReport sql3](https://github.com/user-attachments/assets/3c083520-cd65-4065-a2a6-ac47fa60facb)
+
+
+
+![SalesReport Excel](https://github.com/user-attachments/assets/e9857e8a-5bb1-4365-9a22-881c85495868)
+
+
+![SalesReport Excel2](https://github.com/user-attachments/assets/5abf089f-18b1-4754-8e1b-2080e23b2037)
+
+
+![SalesReport sql1](https://github.com/user-attachments/assets/aeb3ef62-6573-448a-a5a2-1936288c4730)
+
+
+
+![SalesReport sql2](https://github.com/user-attachments/assets/9b82fd07-3290-4507-8d30-225c9b37629e)
+
+
+
+ ![SalesReportsql3](https://github.com/user-attachments/assets/ae6f5581-e251-404a-8c5f-2bd69e3bb0f5)
+
+    
+ ![SalesReport Excel2](https://github.com/user-attachments/assets/887182b7-83ae-42af-a330-c91993a474c8)
+
+
+![SalesReport powerbi](https://github.com/user-attachments/assets/7f3e6755-2f51-46a7-bd1b-2236ba970df4)
+
+        
+  💻📚🖋️
+  💰💲🤑
+  😆🕹️🗺️
+  💃💃💃
+        
 
 
 
